@@ -1,2 +1,3 @@
 # Cleaning-US-Census-Data
-Codecademy Project
+
+## Data Wrangling, Cleaning and Tidyig. 
